@@ -1,0 +1,6 @@
+{
+  "SLACK_SIGNING_SECRET": "",
+  "SLACK_BOT_TOKEN": "xoxb-",
+  "WATSON_API_KEY": "SI-",
+  "WATSON_WORKSPACE_ID": ""
+}

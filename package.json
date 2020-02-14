@@ -1,0 +1,19 @@
+{
+  "name": "slack-demo-watson-bot",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Serverless chatbot with Watson Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tomomi Imura <opensource@slack.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "dotenv": "^8.0.0",
+    "ibm-watson": "^4.0.1",
+    "tsscmp": "^1.0.6"
+  }
+}

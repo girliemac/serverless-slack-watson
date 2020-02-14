@@ -1,0 +1,8 @@
+.env
+.DS_Store
+node_modules
+npm-debug.log
+package-lock.json
+params.json
+assistant-simple-example.json
+chatbot.zip
