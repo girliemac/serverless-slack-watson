@@ -11,7 +11,7 @@
   "author": "Tomomi Imura <opensource@slack.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": ">=0.18.1",
     "dotenv": "^8.0.0",
     "ibm-watson": "^4.0.1",
     "tsscmp": "^1.0.6"
